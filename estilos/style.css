@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    background-color: rgb(23, 159, 223);
+    background-color: rgb(171, 196, 207);
     width: 500px;
     margin: auto;
     padding: 10px;
@@ -17,12 +17,12 @@ main {
 
 h1 {
     font-size: 2em;
-    color:black;
+    color:rgb(128, 4, 121);
 }
 
 h2 {
     font-size: 1.5em;
-    color:black;
+    color:rgb(123, 7, 231);
 }
 
 img.lado {
